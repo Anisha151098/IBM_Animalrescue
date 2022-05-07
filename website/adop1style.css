@@ -1,0 +1,92 @@
+
+
+h1{
+  border-top-style: solid;
+  border-top-width: 30px;
+  border-top-color: pink;
+  margin-top: 0px;
+
+  text-align: center;
+  font-size:60px;
+  font-style: italic;
+  font-family: sans-serif;
+  color: #ff4c68;
+
+}
+
+
+
+
+}
+p{
+  font-size: 16px;
+  margin-top: 50px;
+  padding-top: 25px;
+  text-align: left;
+  margin-left: 45px;
+  line-height: 25px;
+  margin-right:45px;
+  font-family: Montserrat;
+  word-spacing: 2px;
+}
+
+a{
+  text-decoration: none;
+  display: inline-grid;
+  padding: 8px 16px;
+
+}
+a.hover{
+  background-color: #ddd;
+  color:black;
+}
+.DOG {
+  background-image: url(adop1img/puppy.png);
+  background-position: center;
+  background-repeat: no-repeat;
+
+  width: 250px;
+  height: 250px;
+  border-radius: 8px;
+  border: 3px solid ;
+  color:white;
+  font-style: bold;
+  font-size: 20px;
+  position: absolute;
+  top: 340px;
+  left:350px;
+  margin-bottom: 150px;
+  border-color: #ff4c68;
+}
+.CAT {
+  background-image: url(adop1img/cat.jpg);
+  background-position: center;
+
+  width: 250px;
+  height: 250px;
+  border-radius: 8px;
+  border: 3px solid ;
+  border-color: #ff4c68;
+  color:white;
+  font-style: bold;
+  font-size: 20px;
+  position: absolute;
+  top: 340px;
+  left:800px;
+  margin-bottom: 150px;
+}
+.BACK{
+
+  background-color: gray;
+  width: 35px;
+  border-radius: 8px;
+  border: 3px solid ;
+  border-color: gray;
+  color:white;
+  font-style: bold;
+  font-size: 15px;
+  position: absolute;
+  top: 610px;
+  left:680px;
+  margin-bottom: 150px;
+}

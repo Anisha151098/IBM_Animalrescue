@@ -1,0 +1,149 @@
+body{
+  margin: 0;
+}
+
+
+/* Adaption page */
+#adaption {
+  background-color: #ff4c68;
+  margin-right: 0;
+}
+
+.adapt-dogs {
+  background-color: #ff4c68;
+}
+
+.side-heading {
+  padding: 50px 0 0 50px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.8rem;
+  font-weight: bold;
+  color: #ffffff;
+  margin: 0;
+}
+
+.description {
+  font-family: 'DM Sans', sans-serif;
+  color: #ffffff;
+  font-weight: 200;
+  font-size: 2rem;
+  padding: 30px 30px 50px 50px;
+  width: 50%;
+  height: 50%;
+  line-height: 1.5;
+}
+
+.save-logo {
+  width: 350px;
+  height: 350px;
+  float: right;
+}
+
+.adpt-btn {
+  background:white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  color: black;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid white 2px;
+  text-decoration: none;
+  margin:0 0 90px 50px;
+}
+
+.adpt-btn:hover {
+  background: black;
+  text-decoration: none;
+  color: white;
+  border-color: black;
+}
+
+/* Donation */
+
+.donate{
+  color: black;
+position: absolute;
+top: 630px;
+right: 50px;
+}
+
+.leash{
+  text-align: right;
+  color: black;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 200;
+  font-size: 2rem;
+  padding: 30px 0 50px 50px;
+  line-height: 1.5;
+  width: 40%;
+  height: 35%;
+position: absolute;
+top: 720px;
+right: 50px;
+}
+
+.charity{
+  margin-top: 130px;
+}
+
+.dnt-btn {
+  background:white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  color: black;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid black 2px;
+  text-decoration: none;
+
+  position: absolute;
+  top: 1000px;
+  right: 50px;
+    margin:0 0 90px 50px;
+}
+
+.dnt-btn:hover {
+  background: black;
+  text-decoration: none;
+  color: white;
+  border-color: black;
+}
+
+/* Footer */
+
+#qoute{
+  background-color: #ff4c68;
+  margin-top: 50px;
+}
+
+.footer{
+  text-align: center;
+  color: black;
+  font-family: 'Mulish', sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.footer-div{
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  padding-top: 190px;
+  padding-bottom: 50px;
+
+}
+
+.footer-img{
+  width: 30%;
+  height: 30%;
+}
+
+.fa-paw{
+  font-size: 3rem;
+}

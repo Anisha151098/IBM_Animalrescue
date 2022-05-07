@@ -1,0 +1,67 @@
+h2{
+  color: #ff4c68;
+  text-align: right;
+}
+body{
+  background-image: url(dogcat.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.input-container {
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+  opacity: 1;
+  margin-left: 200px;
+
+
+
+}
+
+.icon {
+  padding: 10px;
+  background: #ff4c68;
+  color: black;
+  min-width: 50px;
+  text-align: left;
+
+
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+}
+
+.input-field:focus {
+  border: 2px solid #ff4c68;
+}
+
+
+.btn {
+  background-color: #ff4c68;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 1;
+  margin-left: 200px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+.CANCEL{
+  background-color:gray;
+  color: white;
+
+  border:white;
+  cursor: pointer;
+  width: 100%;
+  opacity: 1;
+  margin-left: 400px;
+}
